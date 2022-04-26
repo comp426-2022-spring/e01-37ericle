@@ -75,11 +75,11 @@ a {
   /* 23. Change the color of links to azure on mouseover */
   color: azure;
   /* 24. Set the text-decoration to underline for links on mouseover */
-  
+  text-decoration: underline;
 }
 
 .signin {
-  background-color: #f1f1f1
+  background-color: #f1f1f1;
   /* 25. Align the text for the section with class "signin" to be centered */
-  
+  text-align: center;
 }
